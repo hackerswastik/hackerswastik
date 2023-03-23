@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hackerswastik
-- 👀 I’m interested in Developing Website and Softwares
-- 🌱 I’m currently working on Lastest Technologies
+- 👋 Hi, I’m Swastik Srivastava
+- 👀 I am a full stack developer worked for biggest MNCs.
+- 🌱 Currently working as a Full Stack Java Developer
 - 💞️ I’m looking to work for new projects .
 - 📫 How to reach me - Just give a call on +91-7080652507
 
